@@ -1,0 +1,20 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#restartButton{
+    text-align: center;
+}
+
+.buttonCenter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.blockSize {
+    width: 30px;
+    height: 30px;
+}
+
